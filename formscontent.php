@@ -21,7 +21,7 @@
 
 <p>When constructing forms to be used in jQuery Mobile, most of the standard guidelines used to create forms that submit via ordinary HTTP POST or GET still apply. Additionally, the <code>id</code> attributes of form controls need to be not only unique on a given page, but also unique across the pages in a site. This is because jQuery Mobile's single-page navigation model allows many different "pages" to be present in the DOM at the same time. You must be careful to use unique <code>id</code> attributes so there will be only one of each in the DOM. Be sure to pair them properly with <code>label</code> elements via the <code>for</code> attribute.</p>
 
-<h2>Buttons</h2>
+<h2>What's Your Nation Insurnace Number</h2>
 
 <p>Buttons are used within a wide range of other plugins. The button markup is flexible and can be created from links or form buttons. Learn more about <a href="../button-markup/">button markup</a> and <a href="../button/">input buttons</a>.</p>
 <div data-demo-html="true">
