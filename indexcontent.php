@@ -7,7 +7,8 @@
 
 <img src="_assets/img/devices.png">
 
-		<p>All You Need Is A <a href="intro/" data-ajax="false">Mobile Phone</a> <a href="intro/" data-ajax="false">A National Insurance Number </a>, a <a href="intro/" data-ajax="false">U.K. Passport</a> Or A <a href="intro/" data-ajax="false">U.K. Driving Licence</a> and a UK address</p>
+		<p>All You Need Is A <a href="intro/" data-ajax="false">Mobile Phone</a> <a href="intro/" data-ajax="false">A National Insurance Number </a>, a <a href="intro/" data-ajax="false">U.K. Passport</a> Or A <a href="intro/" data-ajax="false">U.K. Driving Licence</a> 
+        and a<a href="intro/" data-ajax="false"> UK address</a></p>
 
 <div class="ui-grid-a ui-responsive">
     <div class="ui-block-a">
