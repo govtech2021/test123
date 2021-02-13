@@ -3,7 +3,7 @@
 
 <h1>Demo</h1>
 
-<p><strong>The Ispossimist Way TO Vote In The U.K.</strong></p>
+<p><strong>The Simplest Way TO Vote In The U.K.</strong></p>
 
 <img src="_assets/img/devices.png">
 
