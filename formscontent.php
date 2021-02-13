@@ -6,10 +6,18 @@
 </p>
 
 <h2>What is Your First Name</h2>
-<div data-demo-html="true">
+
      <label for="text-basic">First Name:</label>
      <input type="text" name="text-basic" id="text-basic" value="">
-</div
+
+
+<h2>What is Your second Name</h2>
+    <label for="text-basic">Second Name:</label>
+     <input type="text" name="text-basic" id="text-basic" value="">
+
+     <h2>What is Your Date Of Birth</h2>
+    <label for="text-basic">Date Of Birth:</label>
+    <input type="date" name="text-basic" id="text-basic" value="">
 
 <p>When constructing forms to be used in jQuery Mobile, most of the standard guidelines used to create forms that submit via ordinary HTTP POST or GET still apply. Additionally, the <code>id</code> attributes of form controls need to be not only unique on a given page, but also unique across the pages in a site. This is because jQuery Mobile's single-page navigation model allows many different "pages" to be present in the DOM at the same time. You must be careful to use unique <code>id</code> attributes so there will be only one of each in the DOM. Be sure to pair them properly with <code>label</code> elements via the <code>for</code> attribute.</p>
 
