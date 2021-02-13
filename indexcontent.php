@@ -7,7 +7,7 @@
 
 <img src="_assets/img/devices.png">
 
-<p>All You Need Is A Mobile Phone <a href="intro/" data-ajax="false">A National Insurance Number</a>And A U.K. Passport Or A U.K. Driving Licennce<a href="http://api.jquerymobile.com" title="jQuery Mobile API documentation" target="_blank">API documentation</a>. Downloads and info about the project can be found on <a href="http://jquerymobile.com" title="jQuery Mobile web site" target="_blank">jquerymobile.com</a>.</p>
+<p>All You Need Is A Mobile Phone <a href="intro/" data-ajax="false">A National Insurance Number </a>, a U.K. Passport Or A U.K. Driving Licennce</p>
 
 <div class="ui-grid-a ui-responsive">
     <div class="ui-block-a">
