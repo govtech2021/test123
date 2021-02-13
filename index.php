@@ -25,10 +25,7 @@
     <?php include 'menu.php';?><!-- /panel -->
 
 
-	<div data-role="footer" data-position="fixed" data-tap-toggle="false" class="jqm-footer">
-		<p>jQuery Mobile Demos version <span class="jqm-version"></span></p>
-		<p>Copyright 2014 The jQuery Foundation</p>
-	</div><!-- /footer -->
+	<?php include 'footer.php';?><!-- /footer -->
 	<!-- TODO: This should become an external panel so we can add input to markup (unique ID) -->
     <div data-role="panel" class="jqm-search-panel" data-position="right" data-display="overlay" data-theme="a">
 		<div class="jqm-search">
