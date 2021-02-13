@@ -4,6 +4,7 @@
 <li data-filtertext="introduction overview getting started"><a href="../register.php" data-ajax="false">Register/Login</a></li>
 <li data-filtertext="buttons button markup buttonmarkup method anchor link button element"><a href="../button-markup/" data-ajax="false">Assisant</a></li>
 <li data-filtertext="form button widget input button submit reset"><a href="../button/" data-ajax="false">Button widget</a></li>
+<li data-filtertext="form button widget input button submit reset"><a href="testassist.php" data-ajax="false">Test</a></li>
 
 
 
