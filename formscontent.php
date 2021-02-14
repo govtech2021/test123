@@ -56,7 +56,7 @@
 <!-- /demo-html -->
 
 
-    <a href="#" class="ui-shadow ui-btn ui-corner-all">Register</a>
+    <a href="/indexvote.php" class="ui-shadow ui-btn ui-corner-all">Register</a>
     
    
 
