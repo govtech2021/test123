@@ -35,7 +35,7 @@
 
 <p>As before we don't want you actual Passport number just a tesst!  and 
 
-<a href="../button/">input buttons</a>.</p>
+.</p>
 <div data-demo-html="true">
     <a href="#" class="ui-shadow ui-btn ui-corner-all">Link button</a>
     <button class="ui-shadow ui-btn ui-corner-all">Button element</button>
