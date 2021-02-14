@@ -13,9 +13,9 @@
         <div class="jqm-block-content">
             <h3>Pages</h3>
 
-            <p><a href="theme-default/" data-ajax="false">Login</a></p>
-            <p><a href="button-markup/" data-ajax="false">Register</a></p>
-            <p><a href="icons/" data-ajax="false">Assisant</a></p>
+            <p><a href="/login.php" data-ajax="false">Login</a></p>
+            <p><a href="/indexforms.php" data-ajax="false">Register</a></p>
+            <p><a href="/testassist.php" data-ajax="false">Assisant</a></p>
             <p><a href="grids/" data-ajax="false">Grids</a></p>
             <p><a href="../body-bar-classes/" data-ajax="false">Body and bar classes</a></p>
         </div>

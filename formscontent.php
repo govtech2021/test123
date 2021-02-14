@@ -19,11 +19,15 @@
     <label for="text-basic">Date Of Birth:</label>
     <input type="date" name="text-basic" id="text-basic" value="">
 
-<p>When constructing forms to be used in jQuery Mobile, most of the standard guidelines used to create forms that submit via ordinary HTTP POST or GET still apply. Additionally, the <code>id</code> attributes of form controls need to be not only unique on a given page, but also unique across the pages in a site. This is because jQuery Mobile's single-page navigation model allows many different "pages" to be present in the DOM at the same time. You must be careful to use unique <code>id</code> attributes so there will be only one of each in the DOM. Be sure to pair them properly with <code>label</code> elements via the <code>for</code> attribute.</p>
+<p>Because this is a hackathon we don't want your actual date of birth but it would help usif you added one</p>
 
 <h2>What's Your Nation Insurnace Number</h2>
 
-<p>Buttons are used within a wide range of other plugins. The button markup is flexible and can be created from links or form buttons. Learn more about <a href="../button-markup/">button markup</a> and <a href="../button/">input buttons</a>.</p>
+<label for="text-basic">Nation Insurnace Number:</label>
+     <input type="text" name="text-basic" id="text-basic" value="">
+
+<p>As before we don't want you actual national insurance number just a tesst! <a href="../button-markup/">button markup</a> and 
+<a href="../button/">input buttons</a>.</p>
 <div data-demo-html="true">
     <a href="#" class="ui-shadow ui-btn ui-corner-all">Link button</a>
     <button class="ui-shadow ui-btn ui-corner-all">Button element</button>
