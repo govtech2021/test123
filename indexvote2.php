@@ -11,4 +11,7 @@
         <input type="radio" name="radio-choice-1" id="radio-choice-4" value="choice-4">
         <label for="radio-choice-4">Canditate 4</label>
 </fieldset>
+<a href="/thankyou.php" class="ui-shadow ui-btn ui-corner-all">Set Vote</a>
+    
+   
 </div>
