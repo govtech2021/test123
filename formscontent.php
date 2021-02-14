@@ -37,251 +37,51 @@
 <a href="../button/">input buttons</a>.</p>
 <div data-demo-html="true">
     <a href="#" class="ui-shadow ui-btn ui-corner-all">Register</a>
-    <button class="ui-shadow ui-btn ui-corner-all">Button element</button>
-    <input type="button" value="Button element" data-icon="delete" data-theme="a">
+    
+   
 </div><!-- /demo-html -->
 
-<p>Inline buttons</p>
-<div data-demo-html="true">
-    <a href="#" class="ui-shadow ui-btn ui-corner-all ui-btn-inline ui-btn-icon-left ui-icon-star">Inline + icon</a>
-    <a href="#" class="ui-shadow ui-btn ui-corner-all ui-btn-inline ui-btn-b ui-mini">Mini + theme</a>
-    <a href="#" class="ui-shadow ui-btn ui-corner-all ui-btn-inline ui-icon-plus ui-btn-icon-notext ui-btn-b ui-mini">icon only button</a>
-</div><!-- /demo-html -->
+<!-- /demo-html -->
 
-<p>Horizontal grouped buttons</p>
-<div data-demo-html="true">
-    <div data-role="controlgroup" data-type="horizontal" data-mini="true">
-        <a href="#" class="ui-shadow ui-btn ui-corner-all ui-btn-icon-left ui-icon-plus ui-btn-b">Add</a>
-        <a href="#" class="ui-shadow ui-btn ui-corner-all ui-btn-icon-left ui-icon-delete ui-btn-b">Delete</a>
-        <a href="#" class="ui-shadow ui-btn ui-corner-all ui-btn-icon-left ui-icon-grid ui-btn-b">More</a>
-    </div>
-</div><!-- /demo-html -->
+<!-- /demo-html -->
 
-<h2>Sliders</h2>
 
-<p>Sliders are used to enter numeric values along a numeric continuum by dragging a handle or entering in a value. Learn more about <a href="../slider/" data-ajax="false">sliders</a>.</p>
 
-<div data-demo-html="true">
-    <label for="slider">Slider:</label>
-    <input type="range" name="slider" id="slider" value="50" min="0" max="100">
-</div><!-- /demo-html -->
+<!-- /demo-html -->
 
-<div data-demo-html="true">
-    <label for="slider-fill">Slider with fill and step of 50:</label>
-    <input type="range" name="slider-fill" id="slider-fill" value="60" min="0" max="1000" step="50" data-highlight="true">
-</div><!-- /demo-html -->
+<!-- /demo-html -->
 
-<div data-demo-html="true">
-    <label for="slider-fill-mini">Slider with fill, mini, track theme:</label>
-    <input type="range" name="slider-fill-mini" id="slider-fill-mini" value="40" min="0" max="100" data-mini="true" data-highlight="true" data-theme="b" data-track-theme="b">
-</div><!-- /demo-html -->
 
-<h2>Range slider</h2>
 
-<p>Range sliders offer two handles to set a min and max value along a numeric continuum. Learn more about <a href="../rangeslider/" data-ajax="false">range sliders</a>.</p>
+<!-- /demo-html -->
 
-<div data-demo-html="true">
-<form>
-    <div data-role="rangeslider">
-        <label for="range-1a">Rangeslider:</label>
-        <input type="range" name="range-1a" id="range-1a" min="0" max="100" value="40">
-        <label for="range-1b">Rangeslider:</label>
-        <input type="range" name="range-1b" id="range-1b" min="0" max="100" value="80">
-    </div>
-</form>
-</div><!-- /demo-html -->
+<!-- /demo-html -->
 
-<div data-demo-html="true">
-<form>
-    <div data-role="rangeslider" data-mini="true">
-        <label for="range-2a">Mini rangeslider:</label>
-        <input type="range" name="range-2a" id="range-2a" min="0" max="100" value="40">
-        <label for="range-2b">Mini rangeslider:</label>
-        <input type="range" name="range-2b" id="range-2b" min="0" max="100" value="80">
-    </div>
-</form>
-</div><!-- /demo-html -->
+<!-- /demo-html -->
 
-<h2>Flip switch</h2>
+<!-- /demo-html -->
 
-<p>Flip switches are used for boolean style inputs like true/false or on/off in a compact UI element. Learn more about <a href="../slider-flipswitch/" data-ajax="false">flip switches</a>.</p>
+<!-- /demo-html -->
 
-<div data-demo-html="true">
-    <label for="slider2">Flip switch:</label>
-    <select name="slider2" id="slider2" data-role="slider">
-        <option value="off">Off</option>
-        <option value="on">On</option>
-    </select>
-</div><!-- /demo-html -->
+<!-- /demo-html -->
 
-<div data-demo-html="true">
-    <label for="slider-flip-m">Mini flip switch:</label>
-    <select name="slider-flip-m" id="slider-flip-m" data-role="slider" data-mini="true">
-        <option value="off">No</option>
-        <option value="on" selected>Yes</option>
-    </select>
-</div><!-- /demo-html -->
 
-<h2>Checkboxes</h2>
+<!-- /demo-html -->
 
-<p>Checkboxes are used to provide a list of options where more than one can be selected. Learn more about <a href="../checkboxradio-checkbox/">checkboxes</a>.</p>
+<!-- /demo-html -->
 
-<div data-demo-html="true">
-    <fieldset data-role="controlgroup">
-        <legend>Checkboxes, vertical controlgroup:</legend>
-        <input type="checkbox" name="checkbox-1a" id="checkbox-1a" checked>
-        <label for="checkbox-1a">Cheetos</label>
 
-        <input type="checkbox" name="checkbox-2a" id="checkbox-2a">
-        <label for="checkbox-2a">Doritos</label>
+<!-- /demo-html -->
 
-        <input type="checkbox" name="checkbox-3a" id="checkbox-3a">
-        <label for="checkbox-3a">Fritos</label>
+<!-- /demo-html -->
 
-        <input type="checkbox" name="checkbox-4a" id="checkbox-4a">
-        <label for="checkbox-4a">Sun Chips</label>
-    </fieldset>
-</div><!-- /demo-html -->
+<!-- /demo-html -->
 
-<div data-demo-html="true">
-    <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
-        <legend>Checkboxes, mini, horizontal controlgroup:</legend>
-        <input type="checkbox" name="checkbox-6" id="checkbox-6">
-        <label for="checkbox-6">b</label>
+<!-- /demo-html -->
 
-        <input type="checkbox" name="checkbox-7" id="checkbox-7" checked>
-        <label for="checkbox-7"><em>i</em></label>
+<!-- /demo-html -->
 
-        <input type="checkbox" name="checkbox-8" id="checkbox-8">
-        <label for="checkbox-8">u</label>
-    </fieldset>
-</div><!-- /demo-html -->
-
-<h2>Radio buttons</h2>
-
-<p>Radio buttons are used to provide a list of options where only a single option can be selected. Learn more about <a href="../checkboxradio-radio/">radiobuttons</a>.</p>
-
-<div data-demo-html="true">
-        <fieldset data-role="controlgroup">
-            <legend>Radio buttons, vertical controlgroup:</legend>
-                <input type="radio" name="radio-choice-1" id="radio-choice-1" value="choice-1" checked="checked">
-                <label for="radio-choice-1">Cat</label>
-
-                <input type="radio" name="radio-choice-1" id="radio-choice-2" value="choice-2">
-                <label for="radio-choice-2">Dog</label>
-
-                <input type="radio" name="radio-choice-1" id="radio-choice-3" value="choice-3">
-                <label for="radio-choice-3">Hamster</label>
-
-                <input type="radio" name="radio-choice-1" id="radio-choice-4" value="choice-4">
-                <label for="radio-choice-4">Lizard</label>
-        </fieldset>
-</div><!-- /demo-html -->
-
-<div data-demo-html="true">
-        <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
-            <legend>Radio buttons, mini, horizontal controlgroup:</legend>
-                <input type="radio" name="radio-choice-b" id="radio-choice-c" value="list" checked="checked">
-                <label for="radio-choice-c">List</label>
-                <input type="radio" name="radio-choice-b" id="radio-choice-d" value="grid">
-                <label for="radio-choice-d">Grid</label>
-                <input type="radio" name="radio-choice-b" id="radio-choice-e" value="gallery">
-                <label for="radio-choice-e">Gallery</label>
-        </fieldset>
-</div><!-- /demo-html -->
-
-<h2>Selects</h2>
-
-<p>The select menu is used to offer a list of options in a compact picker. Ours is based on a native select element, which is hidden from view and replaced with a custom-styled select button. Tapping it opens the native menu or a custom styled version. Learn more about <a href="../selectmenu/">selects</a>.</p>
-
-<div data-demo-html="true">
-    <label for="select-choice-1" class="select">Select, native menu</label>
-    <select name="select-choice-1" id="select-choice-1">
-        <option value="standard">Standard: 7 day</option>
-        <option value="rush">Rush: 3 days</option>
-        <option value="express">Express: next day</option>
-        <option value="overnight">Overnight</option>
-    </select>
-</div><!-- /demo-html -->
-
-<div data-demo-html="true">
-    <label for="select-choice-mini" class="select">Mini select, inline</label>
-    <select name="select-choice-mini" id="select-choice-mini" data-mini="true" data-inline="true">
-        <option value="standard">Standard: 7 day</option>
-        <option value="rush">Rush: 3 days</option>
-        <option value="express">Express: next day</option>
-        <option value="overnight">Overnight</option>
-    </select>
-</div><!-- /demo-html -->
-
-<div data-demo-html="true">
-    <label for="select-choice-a" class="select">Custom select menu:</label>
-    <select name="select-choice-a" id="select-choice-a" data-native-menu="false">
-        <option>Custom menu example</option>
-        <option value="standard">Standard: 7 day</option>
-        <option value="rush">Rush: 3 days</option>
-        <option value="express">Express: next day</option>
-        <option value="overnight">Overnight</option>
-    </select>
-</div><!-- /demo-html -->
-
-<div data-demo-html="true">
-    <label for="select-choice-8" class="select">Multi-select with optgroups, custom icon and position:</label>
-    <select name="select-choice-8" id="select-choice-8" multiple="multiple" data-native-menu="false" data-icon="grid" data-iconpos="left">
-
-        <option>Choose a few options:</option>
-        <optgroup label="USPS">
-            <option value="standard" selected>Standard: 7 day</option>
-            <option value="rush">Rush: 3 days</option>
-            <option value="express">Express: next day</option>
-            <option value="overnight">Overnight</option>
-        </optgroup>
-        <optgroup label="FedEx">
-            <option value="firstOvernight">First Overnight</option>
-            <option value="expressSaver">Express Saver</option>
-            <option value="ground">Ground</option>
-        </optgroup>
-    </select>
-</div><!-- /demo-html -->
-
-<h2>Text inputs & Textareas</h2>
-
-<p>Text inputs and textareas are coded with standard HTML elements, then enhanced by jQuery Mobile to make them more attractive and useable on a mobile device. Learn more about <a href="../textinput/">text inputs and textareas</a>.</p>
-
-<div data-demo-html="true">
-     <label for="text-basic">Text input:</label>
-     <input type="text" name="text-basic" id="text-basic" value="">
-</div><!-- /demo-html -->
-
-<div data-demo-html="true">
-    <label for="textarea">Textarea:</label>
-    <textarea cols="40" rows="8" name="textarea" id="textarea"></textarea>
-</div><!-- /demo-html -->
-
-<div data-demo-html="true">
-     <label for="number-pattern">Number + [0-9]* pattern:</label>
-     <input type="number" name="number" pattern="[0-9]*" id="number-pattern" value="">
-</div><!-- /demo-html -->
-
-<div data-demo-html="true">
-     <label for="date">Date:</label>
-     <input type="date" name="date" id="date" value="">
-</div><!-- /demo-html -->
-
-<div data-demo-html="true">
-     <label for="tel">Tel:</label>
-     <input type="tel" name="tel" id="tel" value="">
-</div><!-- /demo-html -->
-
-<div data-demo-html="true">
-     <label for="search">Search Input:</label>
-     <input type="search" name="password" id="search" value="" placeholder="Placeholder text...">
-</div><!-- /demo-html -->
-
-<div data-demo-html="true">
-     <label for="file">File:</label>
-     <input type="file" name="file" id="file" value="">
-</div><!-- /demo-html -->
+<!-- /demo-html -->
 
 <div data-demo-html="true">
      <label for="password">Password:</label>
