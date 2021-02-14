@@ -1,7 +1,7 @@
 
     <div role="main" class="ui-content jqm-content">
     <fieldset data-role="controlgroup">
-    <legend>Radio buttons, vertical controlgroup:</legend>
+    <legend>Please chose your canditate:</legend>
         <input type="radio" name="radio-choice-1" id="radio-choice-1" value="choice-1" checked="checked">
         <label for="radio-choice-1">Canditate 1</label>
         <input type="radio" name="radio-choice-1" id="radio-choice-2" value="choice-2">
