@@ -147,6 +147,11 @@ html .ui-btn.ui-checkbox-on.ui-checkbox-on:after {
 .ui-icon-search:after {
 	background-image: url(images/icons-png/search-white.png);
 }
+
+.ui-icon-mic:after {
+	background-image: url(images/icons-png/search-white.png);
+}
+
 .ui-icon-shop:after {
 	background-image: url(images/icons-png/shop-white.png);
 }
