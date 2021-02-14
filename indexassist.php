@@ -14,6 +14,7 @@
             <div class="input-data">
                 <input id="data" type="text" placeholder="Type something here.." required>
                 <button id="send-btn">Send</button>
+                <button id="speak-btn">Speak</button>
             </div></div>
       
     
