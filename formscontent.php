@@ -27,6 +27,13 @@
      <input type="text" name="text-basic" id="text-basic" value="">
 
 <p>As before we don't want you actual national insurance number just a tesst! <a href="../button-markup/">button markup</a> and 
+<h2>What's Your Nation Insurnace Number</h2>
+
+<label for="text-basic">UK Passport Number:</label>
+     <input type="text" name="text-basic" id="text-basic" value="">
+
+<p>As before we don't want you actual Passport number just a tesst! <a href="../button-markup/">button markup</a> and 
+
 <a href="../button/">input buttons</a>.</p>
 <div data-demo-html="true">
     <a href="#" class="ui-shadow ui-btn ui-corner-all">Link button</a>
