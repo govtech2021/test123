@@ -2,7 +2,7 @@
 
 <h1>Register Here</h1>
 
-<p>Voter Registration: One Vote=OneToken
+<p>logo1.pngeToken OK
 </p>
 
 <h2>What is Your First Name</h2>
