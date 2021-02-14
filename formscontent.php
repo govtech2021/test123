@@ -2,7 +2,7 @@
 
 <h1>Register Here</h1>
 
-<p>Voter Registration: One Vote=On
+<p>Voter Registration: One Vote=Token
 </p>
 
 <h2>What is Your First Name</h2>
