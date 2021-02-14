@@ -36,6 +36,19 @@
 
 <a href="../button/">input buttons</a>.</p>
 
+<h2>What's Your UK Driving Licence Number</h2>
+
+<label for="text-basic">UK Driving Licence Number:</label>
+     <input type="text" name="text-basic" id="text-basic" value="">
+
+<p></p>
+
+<h2>What's Your UK Address</Address></h2>
+
+<label for="text-basic">UK Address:</label>
+     <input type="text" name="text-basic" id="text-basic" value="">
+
+<p></p>
 
 
      <label for="password">Password:</label>
