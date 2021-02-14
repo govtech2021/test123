@@ -16,7 +16,7 @@
             <p><a href="/login.php" data-ajax="false">Login</a></p>
             <p><a href="/indexforms.php" data-ajax="false">Register</a></p>
             <p><a href="/testassist.php" data-ajax="false">Assisant</a></p>
-            <p><a href="grids/" data-ajax="false">Grids</a></p>
+            <p><a href="/ukmap.php" data-ajax="false">UK Map</a></p>
             <p><a href="../body-bar-classes/" data-ajax="false">Body and bar classes</a></p>
         </div>
     </div>        	
