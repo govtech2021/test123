@@ -2,7 +2,7 @@
 
 <h1>Register Here</h1>
 
-<p>Voter Registration: One Vote=OneToken
+<p>All form widgets begin with native form elements with rich HTML semantics that are enhanced to make them more attractive and finger-friendly.
 </p>
 
 <h2>What is Your First Name</h2>
@@ -19,11 +19,11 @@
     <label for="text-basic">Date Of Birth:</label>
     <input type="date" name="text-basic" id="text-basic" value="">
 
-<p>Because this is a hackathon we don't want your actual date of birth but it would help us if you added one</p>
+<p>Because this is a hackathon we don't want your actual date of birth but it would help usif you added one</p>
 
-<h2>What's Your Nation's Insurance Number</h2>
+<h2>What's Your Nation Insurnace Number</h2>
 
-<label for="text-basic">Nation's Insurance Number:</label>
+<label for="text-basic">Nation Insurnace Number:</label>
      <input type="text" name="text-basic" id="text-basic" value="">
 
 <p>As before we don't want you actual national insurance number just a tesst! <a href="../button-markup/">button markup</a> and 
@@ -36,7 +36,7 @@
 
 <a href="../button/">input buttons</a>.</p>
 <div data-demo-html="true">
-    <a href="#" class="ui-shadow ui-btn ui-corner-all">Register</a>
+    <a href="#" class="ui-shadow ui-btn ui-corner-all">Link button</a>
     <button class="ui-shadow ui-btn ui-corner-all">Button element</button>
     <input type="button" value="Button element" data-icon="delete" data-theme="a">
 </div><!-- /demo-html -->
