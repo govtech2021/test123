@@ -1,9 +1,11 @@
+<div role="main" class="ui-content jqm-content">
 <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script></script>
 <script src="//d3js.org/topojson.v1.min.js"></script>
 <script>
 
 var width = 960,
     height = 1160;
+    z-index = 500;
 
 var projection = d3.geo.albers()
     .center([0, 55.4])
@@ -65,3 +67,4 @@ d3.json("uk.json", function(error, uk) {
 });
 
 </script>
+</div>
