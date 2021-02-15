@@ -15,7 +15,7 @@
 	<!-- /panel -->
 
 
-</div><!-- /page -->
+<!-- /page -->
 
 </body>
 </html>
