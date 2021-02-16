@@ -33,6 +33,7 @@
     <link href="/down1/MarkerCluster.css" rel="stylesheet">
     <link href="/down1/MarkerCluster.Default.css" rel="stylesheet">
     <link href="/down1/theme.min.css" rel="stylesheet">
+    <link href="/down1/test.css" rel="stylesheet">
   <style type="text/css">/* Chart.js */
 @keyframes chartjs-render-animation{from{opacity:.99}to{opacity:1}}.chartjs-render-monitor{animation:chartjs-render-animation 1ms}.chartjs-size-monitor,.chartjs-size-monitor-expand,.chartjs-size-monitor-shrink{position:absolute;direction:ltr;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1}.chartjs-size-monitor-expand>div{position:absolute;width:1000000px;height:1000000px;left:0;top:0}.chartjs-size-monitor-shrink>div{position:absolute;width:200%;height:200%;left:0;top:0}</style><style piggy-ext="" data-styled-version="4.4.1"></style><style piggy-ext="" data-styled-version="4.4.1"></style></head>
 
@@ -987,7 +988,6 @@
     <script src="/down1/is.min.js.download"></script>
     <script src="/down1/lodash.min.js.download"></script>
     <script src="/down1/perfect-scrollbar.js.download"></script>
-    <link href="/down1/css" rel="stylesheet">
     <script src="/down1/Chart.min.js.download"></script>
     <script src="/down1/jquery.dataTables.min.js.download"></script>
     <script src="/down1/dataTables.bootstrap4.min.js.download"></script>
