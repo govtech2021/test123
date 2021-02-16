@@ -272,7 +272,7 @@
               <div class="settings px-3 px-xl-0">
                 <div class="navbar-vertical-divider px-0">
                   <hr class="navbar-vertical-hr my-3" />
-                </div><a class="btn btn-sm btn-block btn-purchase mb-3" href="https://themes.getbootstrap.com/product/falcon-admin-dashboard-webapp-template/"> Purchase</a>
+                </div><a class="btn btn-sm btn-block btn-purchase mb-3" href="https://themes.getbootstrap.com/product/falcon-admin-dashboard-webapp-template/">Log Out</a>
               </div>
             </div>
           </div>
