@@ -9,20 +9,20 @@
             <div class="toggle-icon-wrapper">
               <button class="btn navbar-toggler-humburger-icon navbar-vertical-toggle" data-toggle="tooltip" data-placement="left" title="Toggle Navigation"><span class="navbar-toggle-icon"><span class="toggle-line"></span></span></button>
             </div><a class="navbar-brand" href="index.html">
-              <div class="d-flex align-items-center py-3"><img class="mr-2" src="assets/img/illustrations/logo1.png" alt="" width="40" /><span class="text-sans-serif">falcon</span></div>
+              <div class="d-flex align-items-center py-3"><img class="mr-2" src="assets/img/illustrations/logo1.png" alt="" width="40" /><span class="text-sans-serif">admin</span></div>
             </a>
           </div>
           <div class="collapse navbar-collapse" id="navbarVerticalCollapse">
             <div class="navbar-vertical-content perfect-scrollbar scrollbar">
               <ul class="navbar-nav flex-column">
                 <li class="nav-item"><a class="nav-link dropdown-indicator" href="#home" data-toggle="collapse" role="button" aria-expanded="true" aria-controls="home">
-                    <div class="d-flex align-items-center"><span class="nav-link-icon"><span class="fas fa-chart-pie"></span></span><span class="nav-link-text">Home</span></div>
+                    <div class="d-flex align-items-center"><span class="nav-link-icon"><span class="fas fa-home"></span></span><span class="nav-link-text">Home</span></div>
                   </a>
                   <ul class="nav collapse show" id="home" data-parent="#navbarVerticalCollapse">
-                    <li class="nav-item active"><a class="nav-link" href="index.html">Dashboard</a></li>
+                    <li class="nav-item active"><a class="nav-link" href="index.php">Test1</a></li>
                     <li class="nav-item"><a class="nav-link" href="home/dashboard-alt.html">Dashboard alt</a></li>
                     <li class="nav-item"><a class="nav-link" href="home/feed.html">Feed</a></li>
-                    <li class="nav-item"><a class="nav-link" href="home/landing.html">Landing</a></li>
+                  <!--  <li class="nav-item"><a class="nav-link" href="home/landing.html">Landing</a></li>-->
                   </ul>
                 </li>
                 <li class="nav-item"><a class="nav-link dropdown-indicator" href="#pages" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="pages">

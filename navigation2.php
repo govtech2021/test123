@@ -195,7 +195,7 @@
           <nav class="navbar navbar-light navbar-glass navbar-top sticky-kit navbar-expand-lg navbar-top-combo" data-move-target="#navbarVerticalNav" style="display:none;">
             <button class="btn navbar-toggler-humburger-icon navbar-toggler mr-1 mr-sm-3" type="button" data-toggle="collapse" data-target="#navbarVerticalCollapse" aria-controls="navbarVerticalCollapse" aria-expanded="false" aria-label="Toggle Navigation"><span class="navbar-toggle-icon"><span class="toggle-line"></span></span></button>
             <a class="navbar-brand mr-1 mr-sm-3" href="index.html">
-              <div class="d-flex align-items-center"><img class="mr-2" src="assets/img/illustrations/logo1.png" alt="" width="40" /><span class="text-sans-serif">falcon</span></div>
+              <div class="d-flex align-items-center"><img class="mr-2" src="assets/img/illustrations/logo1.png" alt="" width="40" /><span class="text-sans-serif">admin</span></div>
             </a>
             <div class="collapse navbar-collapse" id="navbarStandard">
               <ul class="navbar-nav">
