@@ -53,6 +53,7 @@
 	padding-bottom: 0;
 }
 .jqm-demos .jqm-footer {
+	color:transparent;
 	/*border-top: 1px solid #3eb249;*/
 }
 .jqm-demos .jqm-footer p {
