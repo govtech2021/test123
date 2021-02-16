@@ -22,8 +22,8 @@
     <!-- ===============================================-->
     <!--    Stylesheets-->
     <!-- ===============================================-->
-    <script src="assets/js/config.navbar-vertical.min.js"></script>
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+  <!--  <script src="assets/js/config.navbar-vertical.min.js"></script>
+--> <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
     <link href="assets/lib/perfect-scrollbar/perfect-scrollbar.css" rel="stylesheet">
     <link href="assets/lib/datatables-bs4/dataTables.bootstrap4.min.css" rel="stylesheet">
     <link href="assets/lib/datatables.net-responsive-bs4/responsive.bootstrap4.css" rel="stylesheet">
