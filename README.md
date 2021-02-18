@@ -10,3 +10,4 @@ Each user/voter registers on the website with necessary creds and casts a vote o
 
 * People are encouraged to vote.
 * Prevention of fraudulent cases.
+ 
